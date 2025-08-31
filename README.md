@@ -40,7 +40,15 @@ From the scan three accessible directories where found, /robots.txt, /fristi, /i
 <img width="480" height="270" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/678841e7-78b4-4aa9-b689-148c17b3b331" />
 <img width="480" height="270" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/b4df5b9e-8725-4077-ae36-057390b0acbb" />
 
-After decodeing the base64 encoded png I found a text "md5(rootroot1)" indicating this could be a possible password. 
+After decodeing the base64 encoded png image I found a text "keKkeKKeKKeKkEkkEk" indicating this could be a possible password. Now the next stage was to try potentially obtained credentials eezeepz:keKkeKKeKKeKkEkkEk. Attempting this login credential led to a successful login.
+
+<img width="480" height="270" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/5936347e-c40f-485d-bce0-e2b64e2b8234" />
+<img width="480" height="270" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/547d05fe-83f6-4ac6-8208-b9f31e548f1e" />
+
+- Step 3: Exploitation - Gaining foothold of the machine.
+
+
+
 
 
 
