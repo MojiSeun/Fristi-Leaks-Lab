@@ -9,7 +9,8 @@ Skills Learned
 - Remote code Execution via the upload of PHP scripts
 - Privilege Escalatio techniqe in order to gain unauthenticated access.
 - Problem solving and critical thinking in finding and exploitng vulnerabilites.
-- Directory bruteforcing.
+- Directory traversal attacks.
+- Directory brute-forcing.
 - Exploitation of sudo binaries for privilege escalation.
 - Documentation and reporting of vulnerabilites along with mitigation strategies.
 
